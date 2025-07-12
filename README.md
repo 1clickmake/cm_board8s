@@ -24,7 +24,7 @@ CM_BOARD는 누구나 자유롭게 사용할 수 있는 무료 오픈소스 게�
 - 누구나 수정/재배포 가능  
   Anyone can modify and redistribute
 - PHP 8.0 이상 지원  
-  Supports PHP 7.4 or higher
+  Supports PHP 8.0 or higher
 - Composer 기반 의존성 관리  
   Dependency management based on Composer
 
